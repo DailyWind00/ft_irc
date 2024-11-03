@@ -1,6 +1,8 @@
 # ft_irc ✅97/100
 An IRC server
 
+[Link of the original git](https://github.com/Ratsock6/ft_irc)
+
 I've done this project with :
   - [Tuvosyl](https://github.com/tuvosyl)
   - [Ratsock6](https://github.com/Ratsock6)
